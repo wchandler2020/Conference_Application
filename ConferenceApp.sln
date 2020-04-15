@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceApp", "ConferenceApp\ConferenceApp.csproj", "{E97CFB53-A8CD-48A4-BE68-3149F8861853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceApp", "ConferenceApp\ConferenceApp.csproj", "{E97CFB53-A8CD-48A4-BE68-3149F8861853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceDTO", "ConferenceDTO\ConferenceDTO.csproj", "{07183D3A-B289-4AC9-ACC1-533865BCE8F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E97CFB53-A8CD-48A4-BE68-3149F8861853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E97CFB53-A8CD-48A4-BE68-3149F8861853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E97CFB53-A8CD-48A4-BE68-3149F8861853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07183D3A-B289-4AC9-ACC1-533865BCE8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07183D3A-B289-4AC9-ACC1-533865BCE8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07183D3A-B289-4AC9-ACC1-533865BCE8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07183D3A-B289-4AC9-ACC1-533865BCE8F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
